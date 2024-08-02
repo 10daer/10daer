@@ -6,13 +6,13 @@ Welcome to my GitHub page! I am passionate about building clean, efficient, and 
 
 Presently, I am freelancing but I am also open to full-time job roles. I cover full web and mobile development, both frontend, backend, and AI/ML integration. I have full expertise in web animation using relevant animation libraries.
 
-🌱 I'm learning system design and clean code practices to enhance my ability to architect and scale web applications effectively. I also work on animation libraries to hone my frontend skills.
+🌱 I'm learning system design and clean code practices to enhance my ability to architect and scale web applications effectively.
 
 📫 How to reach me: [afolabireadwan@gmail.com](mailto:afolabireadwan@gmail.com)
 
-💡 I am eager to collaborate on different projects with different requirements.
-
 🛠️ Currently freelancing on [Upwork](https://www.upwork.com/freelancers/ridwana57?mp_source=share)
+
+💡 I am eager to collaborate on different projects with different requirements.
 
 ## Skills
 
@@ -50,6 +50,7 @@ Presently, I am freelancing but I am also open to full-time job roles. I cover f
 ## Learning
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+
 [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![React Fiber](https://img.shields.io/badge/React_Fiber-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 
