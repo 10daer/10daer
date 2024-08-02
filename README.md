@@ -1,6 +1,6 @@
 # ⭐ Hello There ⭐
 
-## I'm Ridwan Afolabi || A Full-Stack Software Developer.
+## I'm Ridwan Afolabi[10daer] || A Full-Stack Software Developer.
 
 Welcome to my GitHub page! I am passionate about building clean, efficient, and user-friendly web applications. I love learning new technologies and can develop methodologies to learn new stuff on the go.
 
