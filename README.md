@@ -10,8 +10,6 @@ Presently, I am freelancing but I am also open to full-time job roles. I cover f
 
 📫 How to reach me: [afolabireadwan@gmail.com](mailto:afolabireadwan@gmail.com)
 
-🛠️ Currently freelancing on [Upwork](https://www.upwork.com/freelancers/ridwana57?mp_source=share)
-
 💡 I am eager to collaborate on different projects with different requirements.
 
 ## Skills
